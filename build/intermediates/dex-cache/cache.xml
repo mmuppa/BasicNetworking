@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/mmuppa/Downloads/BasicNetworking/Application/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/libs/internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="/Users/mmuppa/Downloads/BasicNetworking/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-7e6c67abb4e0aa2185540947c67aaeeab686d169.jar" />
+    </item>
+    <item
+        jar="/Users/mmuppa/Downloads/BasicNetworking/Application/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="/Users/mmuppa/Downloads/BasicNetworking/Application/build/intermediates/pre-dexed/debug/classes-98742d23d1d52b9f72ffdff38c89edbd223aad12.jar" />
+    </item>
+    <item
+        jar="/Users/mmuppa/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.2/support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="/Users/mmuppa/Downloads/BasicNetworking/Application/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-574f36f3b27cc9ae4543e36a152130bc65ae0671.jar" />
+    </item>
+
+</items>
